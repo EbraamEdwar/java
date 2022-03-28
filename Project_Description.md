@@ -9,6 +9,8 @@
 # Description:
 The Main Page of the project "Home" --> http://localhost:8080/home
 
+![h](https://user-images.githubusercontent.com/57042925/160416064-6b111368-29ae-4afa-b7b6-4a0722b57c35.JPG)
+
 We used smile to clean the "Wuzzuf" dataset and make some data analysis and data visualization on it and get :
 
 - Most Companies --> http://localhost:8080/mostcompanies
