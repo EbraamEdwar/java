@@ -35,7 +35,7 @@ We used smile to clean the "Wuzzuf" dataset and make some data analysis and data
 
 ![most-job-locations](https://user-images.githubusercontent.com/57042925/160414181-d7d05c93-847c-4db9-8127-6e28aaedd54f.jpeg)
 
-- Most Frequent job skill --> http://localhost:8080/get_skill
+- Most Frequent job skills --> http://localhost:8080/get_skill
 
 ![d](https://user-images.githubusercontent.com/57042925/160414300-f3a24c93-f795-4791-ae65-4eb899835af6.JPG)
 
