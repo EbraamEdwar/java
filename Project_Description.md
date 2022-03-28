@@ -10,7 +10,7 @@
 We used smile to clean the "Wuzzuf" dataset and make some data analysis and data visualization on it and get :
 
 - Most Companies --> http://localhost:8080/mostcompanies
-- Most Companies visualized using "Pie Chart" --> http://localhost:8080//mostcompaniespiechart
+- Most Companies visualized using "Pie Chart" --> http://localhost:8080/mostcompaniespiechart
 
 - Most Titles --> http://localhost:8080/mosttitles
 - Most Titles visualized using "Bar Chart" --> http://localhost:8080/mosttitlesbarchart
