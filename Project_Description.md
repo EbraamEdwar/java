@@ -7,6 +7,8 @@
 4. Abd-Elrahman El-Drawy
 
 # Description:
+The Main Page of the project "Home" --> http://localhost:8080/home
+
 We used smile to clean the "Wuzzuf" dataset and make some data analysis and data visualization on it and get :
 
 - Most Companies --> http://localhost:8080/mostcompanies
